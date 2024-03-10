@@ -207,8 +207,6 @@ map(function, iterable, ...)
 [6, 6, 6, 6, 6]
 ```
 
-#### [reduce](./#reduce)
-
 #### filter
 
 ```
